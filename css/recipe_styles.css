@@ -1,0 +1,35 @@
+.heading{
+    text-align: center;
+    color: rgb(52, 0, 173);
+    font-size: 40px;
+}
+
+.des-head,
+.ing-head,
+.step-head{
+    font-size: 25px;
+    background-color: rgb(153, 113, 255);
+}
+
+p,
+ul,
+ol{
+    font-size: 18px;
+    background-color: rgb(189, 163, 255);
+}
+
+img{
+    height: 450px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    background-color: rgb(189, 163, 255);
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 30px;
+}
