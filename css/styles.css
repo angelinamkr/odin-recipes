@@ -1,3 +1,9 @@
+body {
+    background-color: rgb(223, 209, 245); /* Change to any color */
+    margin: 0; /* Removes default margin for full coverage */
+    padding: 0;
+}
+
 .title{
     text-align: center;
     font-size: 50px;

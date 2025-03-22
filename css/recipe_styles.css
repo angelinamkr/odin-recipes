@@ -1,4 +1,15 @@
+body {
+    background-color: rgb(223, 209, 245); /* Change to any color */
+    margin: 0; /* Removes default margin for full coverage */
+    padding: 0;
+}
+
+.center-container {
+    text-align: center; /* Centers inline-block elements */
+}
+
 .heading{
+
     text-align: center;
     color: rgb(52, 0, 173);
     font-size: 40px;
@@ -9,6 +20,8 @@
 .step-head{
     font-size: 25px;
     background-color: rgb(153, 113, 255);
+    display: inline-block;
+    text-align: center;
 }
 
 p,
